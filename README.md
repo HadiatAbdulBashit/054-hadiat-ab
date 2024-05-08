@@ -1,2 +1,3 @@
-# 054-hadiat-ab
-Personal project for Jabar Digital Academi - Full Stack Dev
+Nama: Hadiat Abdul Bashit
+Judul: Chit Chat
+Deskripsi: Aplikasi bertema diskusi dengan user anynomus dan grup random yang akan di perbaharui setiap minggu
